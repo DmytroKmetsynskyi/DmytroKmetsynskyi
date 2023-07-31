@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro Kmetsynskyi</h1>
-<h3 align="center">A passionate backend/android developer from India</h3>
+<h3 align="center">A backend/android developer from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
