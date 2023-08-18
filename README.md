@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmytro Kmetsynskyi</h1>
 <h3 align="center">A backend/android developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Happy Paw](https://github.com/DmytroKmetsynskyi/NedoSocialNetwork-HappyPaw)
+- 🔭 I’m currently freelancing 
 
 - 📫 How to reach me **pandmytro0@gmail.com**
 
